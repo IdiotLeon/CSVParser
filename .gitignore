@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# But not these files
+!.gitignore
+!CSVParser.js
+!package.json
+!package-lock.json
